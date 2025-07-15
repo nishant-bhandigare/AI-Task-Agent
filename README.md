@@ -17,7 +17,7 @@ A simple Python-based task management agent that helps you organize and track yo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/nishant-bhandigare/AI-Task-Agent.git
-   cd AI-AGENT
+   cd AI-Task-Agent
    ```
 2. **Add your tasks:**
    - Open `tasks.txt` and add your tasks, one per line.
