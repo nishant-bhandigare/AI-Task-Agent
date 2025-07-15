@@ -1,0 +1,15 @@
+Task 1: Buy groceries
+Task 2: Complete Python project
+Task 3: Read a book
+Task 4: Exercise for 30 minutes
+Task 5: Call a friend
+Task 6: Organize workspace
+Task 7: Write a blog post
+Task 8: Plan weekly schedule
+Task 9: Water the plants
+Task 10: Backup important files
+Task 11: Learn a new recipe
+Task 12: Meditate for 10 minutes
+Task 13: Update resume
+Task 14: Clean the kitchen
+Task 15: Watch a documentary
