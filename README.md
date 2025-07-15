@@ -22,7 +22,6 @@ A simple Python-based task management agent that helps you organize and track yo
 2. **Add your tasks:**
    - Open `tasks.txt` and add your tasks, one per line.
 3. **Run the agent:**
-   - (Add your Python script usage instructions here, e.g.,)
    ```bash
    python task_agent.py
    ```
